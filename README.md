@@ -36,5 +36,5 @@ administration, containerization, security and infrastructure documentation.
 ## Security notice
 
 This repository contains sanitized examples rather than direct exports from
-the production environment. Credentials, keys, public addresses and other
+the environment. Credentials, keys, public addresses and other
 sensitive identifiers are excluded.
