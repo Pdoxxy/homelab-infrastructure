@@ -22,6 +22,7 @@ administration, containerization, security and infrastructure documentation.
 - Ubuntu Server
 - Docker Compose
 - Home Assistant
+- Pi-hole
 - Plex Media Server
 - VPN-routed media services
 
