@@ -1,0 +1,40 @@
+# Secrets
+.env
+.env.*
+!.env.example
+*.key
+*.pem
+*.p12
+*.pfx
+*.crt
+secrets.yaml
+credentials.json
+
+# VPN
+wg0.conf
+wireguard/
+*.conf.private
+
+# Home Assistant
+home-assistant_v2.db
+*.db
+.storage/
+backups/
+*.tar
+
+# UniFi and infrastructure backups
+*.unf
+*.backup
+*.bak
+
+# Logs
+*.log
+logs/
+
+# Operating system
+.DS_Store
+Thumbs.db
+
+# Editors
+.vscode/
+.idea/
